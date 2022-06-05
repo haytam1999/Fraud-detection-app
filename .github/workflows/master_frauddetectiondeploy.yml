@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'FraudDetectionDeploy'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_789DDBE0F38D4191AF66DA8FE8386A70 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AB52F38AD65C42F29C0FE69EE86C8E71 }}
